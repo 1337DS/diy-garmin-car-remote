@@ -1,4 +1,4 @@
-# DIY-Smartwatch-car-remote
+# DIY Smartwatch car remote
 This Tutorial shows you how to open your car remotely from anywhere either by the alexa app or your garmin smartwatch.
 
 ## Demo-Video
